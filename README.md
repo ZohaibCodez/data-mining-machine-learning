@@ -172,6 +172,8 @@ This is a personal coursework repository, so it isn't open for external contribu
 - 🐛 Open an issue if you spot an error in a notebook
 - 🍴 Fork it for your own coursework reference
 
+See [`CONTRIBUTING.md`](CONTRIBUTING.md) for details, and please follow the [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md).
+
 ---
 
 ## 📄 License
