@@ -143,8 +143,8 @@ Then open any assignment folder (e.g. `Assignment_01/`) and launch the `.ipynb` 
 ```
 data-mining-machine-learning/
 ├── 📁 Assignment_01/        # Python fundamentals & NumPy
-│   ├── 📓 Lecture 1.ipynb
-│   ├── 📓 Lecture 2 Conditional execution.ipynb
+│   ├── 📓 Lecture_1.ipynb
+│   ├── 📓 Lecture_2_Conditional_execution.ipynb
 │   ├── 📓 ...
 │   └── 📄 output.txt
 ├── 📄 README.md
