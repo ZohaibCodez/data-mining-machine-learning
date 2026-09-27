@@ -79,7 +79,8 @@ This repository tracks my coursework for **Data Mining & Machine Learning**, a c
 
 | # | Folder | Topics Covered | Status |
 |---|--------|-----------------|--------|
-| 01 | [`Assignment_01/`](Assignment_01) | Python basics, conditionals, iteration, functions, strings, files, lists, dictionaries, tuples, NumPy | ✅ Complete |
+| 01 | [`BSDSF24M016_Assignment_01/`](BSDSF24M016_Assignment_01) | Python basics, conditionals, iteration, functions, strings, files, lists, dictionaries, tuples, NumPy | ✅ Complete |
+| 02 | [`BSDSF24M016_Assignment_02/`](BSDSF24M016_Assignment_02) | Regression from scratch: linear, quadratic, cubic, and degree 4–6 polynomial models via the normal equation, MSE evaluation, overfitting analysis | ✅ Complete |
 
 > This table is updated as new assignments are added throughout the semester.
 
@@ -91,7 +92,7 @@ This repository tracks my coursework for **Data Mining & Machine Learning**, a c
 |----------|-------------|
 | **Language** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
 | **Environment** | ![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white) |
-| **Core Libraries** | ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) (more added as the course progresses: pandas, scikit-learn, matplotlib) |
+| **Core Libraries** | ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white) (more added as the course progresses: scikit-learn) |
 
 ---
 
@@ -134,7 +135,7 @@ pip install jupyter numpy pandas matplotlib scikit-learn
 jupyter notebook
 ```
 
-Then open any assignment folder (e.g. `Assignment_01/`) and launch the `.ipynb` file you want to explore.
+Then open any assignment folder (e.g. `BSDSF24M016_Assignment_01/`) and launch the `.ipynb` file you want to explore.
 
 ---
 
@@ -142,11 +143,15 @@ Then open any assignment folder (e.g. `Assignment_01/`) and launch the `.ipynb` 
 
 ```
 data-mining-machine-learning/
-├── 📁 Assignment_01/        # Python fundamentals & NumPy
+├── 📁 BSDSF24M016_Assignment_01/   # Python fundamentals & NumPy
 │   ├── 📓 Lecture_1.ipynb
 │   ├── 📓 Lecture_2_Conditional_execution.ipynb
 │   ├── 📓 ...
 │   └── 📄 output.txt
+├── 📁 BSDSF24M016_Assignment_02/   # Regression models from scratch
+│   ├── 📓 Regresion.ipynb
+│   ├── 📄 trainRegression.csv
+│   └── 📄 testRegression.csv
 ├── 📄 README.md
 └── 📄 .gitignore
 ```
@@ -156,9 +161,9 @@ data-mining-machine-learning/
 ## 🗺️ Roadmap
 
 - [x] ✅ Assignment 01 — Python fundamentals & NumPy
+- [x] ✅ Assignment 02 — Regression models (linear → degree 6) via the normal equation
 - [ ] 📅 Data preprocessing & cleaning
 - [ ] 📅 Classification algorithms
-- [ ] 📅 Regression algorithms
 - [ ] 📅 Clustering techniques
 - [ ] 📅 Final project
 
