@@ -83,6 +83,7 @@ This repository tracks my coursework for **Data Mining & Machine Learning**, a c
 | 02 | [`BSDSF24M016_Assignment_02/`](BSDSF24M016_Assignment_02) | Regression from scratch: linear, quadratic, cubic, and degree 4–6 polynomial models via the normal equation, MSE evaluation, overfitting analysis | ✅ Complete |
 | 03 | [`BSDSF24M016_Assignment_03/`](BSDSF24M016_Assignment_03) | Regression with gradient descent: weight update derivations, convergence analysis, comparison against the normal equation | ✅ Complete |
 | 04 | [`BSDSF24M016_Assignment_04/`](BSDSF24M016_Assignment_04) | Linear regression with one variable (Coursera ML Specialization lab): cost function, gradient descent, autograded tests | ✅ Complete |
+| 05 | [`BSDSF24M016_Assignment_05/`](BSDSF24M016_Assignment_05) | Logistic regression (Coursera ML Specialization lab): sigmoid, cross-entropy cost, gradient descent, decision boundaries, regularization and polynomial feature mapping | ✅ Complete |
 
 > This table is updated as new assignments are added throughout the semester.
 
@@ -161,6 +162,10 @@ data-mining-machine-learning/
 │   └── 📄 testRegression.csv
 ├── 📁 BSDSF24M016_Assignment_04/   # Linear regression lab (Coursera ML Specialization)
 │   └── 📁 Assignment Linear Regression/
+├── 📁 BSDSF24M016_Assignment_05/   # Logistic regression lab (Coursera ML Specialization)
+│   ├── 📓 Logistic_Regression.ipynb
+│   ├── 📁 data/
+│   └── 📄 utils.py
 ├── 📄 README.md
 └── 📄 .gitignore
 ```
@@ -173,6 +178,7 @@ data-mining-machine-learning/
 - [x] ✅ Assignment 02 — Regression models (linear → degree 6) via the normal equation
 - [x] ✅ Assignment 03 — Regression models trained with gradient descent
 - [x] ✅ Assignment 04 — Linear regression, feature engineering & scaling labs
+- [x] ✅ Assignment 05 — Logistic regression, regularization & decision boundaries
 - [ ] 📅 Data preprocessing & cleaning
 - [ ] 📅 Classification algorithms
 - [ ] 📅 Clustering techniques
