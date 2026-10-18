@@ -82,6 +82,7 @@ This repository tracks my coursework for **Data Mining & Machine Learning**, a c
 | 01 | [`BSDSF24M016_Assignment_01/`](BSDSF24M016_Assignment_01) | Python basics, conditionals, iteration, functions, strings, files, lists, dictionaries, tuples, NumPy | ✅ Complete |
 | 02 | [`BSDSF24M016_Assignment_02/`](BSDSF24M016_Assignment_02) | Regression from scratch: linear, quadratic, cubic, and degree 4–6 polynomial models via the normal equation, MSE evaluation, overfitting analysis | ✅ Complete |
 | 03 | [`BSDSF24M016_Assignment_03/`](BSDSF24M016_Assignment_03) | Regression with gradient descent: weight update derivations, convergence analysis, comparison against the normal equation | ✅ Complete |
+| 04 | [`BSDSF24M016_Assignment_04/`](BSDSF24M016_Assignment_04) | Linear regression with one variable (Coursera ML Specialization lab): cost function, gradient descent, autograded tests | ✅ Complete |
 
 > This table is updated as new assignments are added throughout the semester.
 
@@ -158,6 +159,8 @@ data-mining-machine-learning/
 │   ├── 📄 BSDSF24M016_Assignment_03_Report.pdf
 │   ├── 📄 trainRegression.csv
 │   └── 📄 testRegression.csv
+├── 📁 BSDSF24M016_Assignment_04/   # Linear regression lab (Coursera ML Specialization)
+│   └── 📁 Assignment Linear Regression/
 ├── 📄 README.md
 └── 📄 .gitignore
 ```
@@ -169,6 +172,7 @@ data-mining-machine-learning/
 - [x] ✅ Assignment 01 — Python fundamentals & NumPy
 - [x] ✅ Assignment 02 — Regression models (linear → degree 6) via the normal equation
 - [x] ✅ Assignment 03 — Regression models trained with gradient descent
+- [x] ✅ Assignment 04 — Linear regression, feature engineering & scaling labs
 - [ ] 📅 Data preprocessing & cleaning
 - [ ] 📅 Classification algorithms
 - [ ] 📅 Clustering techniques

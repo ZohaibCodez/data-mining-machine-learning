@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.mypy_cache/
 
 # Jupyter
 .ipynb_checkpoints/
@@ -29,3 +30,6 @@ desktop.ini
 
 # Logs
 *.log
+
+# Supplementary course labs (not submitted coursework)
+BSDSF24M016_Assignment_04/Lecture 6 labs/
