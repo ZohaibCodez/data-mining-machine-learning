@@ -84,6 +84,7 @@ This repository tracks my coursework for **Data Mining & Machine Learning**, a c
 | 03 | [`BSDSF24M016_Assignment_03/`](BSDSF24M016_Assignment_03) | Regression with gradient descent: weight update derivations, convergence analysis, comparison against the normal equation | ✅ Complete |
 | 04 | [`BSDSF24M016_Assignment_04/`](BSDSF24M016_Assignment_04) | Linear regression with one variable (Coursera ML Specialization lab): cost function, gradient descent, autograded tests | ✅ Complete |
 | 05 | [`BSDSF24M016_Assignment_05/`](BSDSF24M016_Assignment_05) | Logistic regression (Coursera ML Specialization lab): sigmoid, cross-entropy cost, gradient descent, decision boundaries, regularization and polynomial feature mapping | ✅ Complete |
+| 06 | [`BSDSF24M016_Assignment_06/`](BSDSF24M016_Assignment_06) | Naive Bayes classifier built from scratch: OCR of digits 2 vs 4 from 16×16 binary images, Laplace smoothing, overall and per-class accuracy | ✅ Complete |
 
 > This table is updated as new assignments are added throughout the semester.
 
@@ -166,6 +167,9 @@ data-mining-machine-learning/
 │   ├── 📓 Logistic_Regression.ipynb
 │   ├── 📁 data/
 │   └── 📄 utils.py
+├── 📁 BSDSF24M016_Assignment_06/   # Naive Bayes digit classifier
+│   ├── 📓 Naive_Bayes.ipynb
+│   └── 📄 trainX.txt, trainY.txt, testX.txt, testY.txt
 ├── 📄 README.md
 └── 📄 .gitignore
 ```
@@ -179,6 +183,7 @@ data-mining-machine-learning/
 - [x] ✅ Assignment 03 — Regression models trained with gradient descent
 - [x] ✅ Assignment 04 — Linear regression, feature engineering & scaling labs
 - [x] ✅ Assignment 05 — Logistic regression, regularization & decision boundaries
+- [x] ✅ Assignment 06 — Naive Bayes classifier (digit 2 vs 4)
 - [ ] 📅 Data preprocessing & cleaning
 - [ ] 📅 Classification algorithms
 - [ ] 📅 Clustering techniques
